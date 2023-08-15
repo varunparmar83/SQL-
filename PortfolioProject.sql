@@ -1,3 +1,4 @@
+--SQL PROJECT ON COVID 19
 SELECT*
 FROM PortfolioProject..CovidDeaths
 WHERE continent IS NOT NULL
